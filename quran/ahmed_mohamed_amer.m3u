@@ -1,0 +1,230 @@
+#EXTM3U
+#--- سور القرآن عدد السور 114 أحمد محمد عامر---
+#EXTINF:-1 m="1" surah-name="الفاتحة" type="مكية" ayat-count="7" page="1" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", الفاتحة
+https://server10.mp3quran.net/Aamer/001.mp3
+#EXTINF:-1 m="2" surah-name="البقرة" type="مدنية" ayat-count="286" page="2" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", البقرة
+https://server10.mp3quran.net/Aamer/002.mp3
+#EXTINF:-1 m="3" surah-name="آل عمران" type="مدنية" ayat-count="200" page="50" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", آل عمران
+https://server10.mp3quran.net/Aamer/003.mp3
+#EXTINF:-1 m="4" surah-name="النساء" type="مدنية" ayat-count="176" page="77" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", النساء
+https://server10.mp3quran.net/Aamer/004.mp3
+#EXTINF:-1 m="5" surah-name="المائدة" type="مدنية" ayat-count="120" page="106" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", المائدة
+https://server10.mp3quran.net/Aamer/005.mp3
+#EXTINF:-1 m="6" surah-name="الأنعام" type="مكية" ayat-count="165" page="128" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", الأنعام
+https://server10.mp3quran.net/Aamer/006.mp3
+#EXTINF:-1 m="7" surah-name="الأعراف" type="مكية" ayat-count="206" page="151" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", الأعراف
+https://server10.mp3quran.net/Aamer/007.mp3
+#EXTINF:-1 m="8" surah-name="الأنفال" type="مدنية" ayat-count="75" page="177" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", الأنفال
+https://server10.mp3quran.net/Aamer/008.mp3
+#EXTINF:-1 m="9" surah-name="التوبة" type="مدنية" ayat-count="129" page="187" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", التوبة
+https://server10.mp3quran.net/Aamer/009.mp3
+#EXTINF:-1 m="10" surah-name="يونس" type="مكية" ayat-count="109" page="208" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", يونس
+https://server10.mp3quran.net/Aamer/010.mp3
+#EXTINF:-1 m="11" surah-name="هود" type="مكية" ayat-count="123" page="221" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", هود
+https://server10.mp3quran.net/Aamer/011.mp3
+#EXTINF:-1 m="12" surah-name="يوسف" type="مكية" ayat-count="111" page="235" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", يوسف
+https://server10.mp3quran.net/Aamer/012.mp3
+#EXTINF:-1 m="13" surah-name="الرعد" type="مدنية" ayat-count="43" page="249" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", الرعد
+https://server10.mp3quran.net/Aamer/013.mp3
+#EXTINF:-1 m="14" surah-name="إبراهيم" type="مكية" ayat-count="52" page="255" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", إبراهيم
+https://server10.mp3quran.net/Aamer/014.mp3
+#EXTINF:-1 m="15" surah-name="الحجر" type="مكية" ayat-count="99" page="262" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", الحجر
+https://server10.mp3quran.net/Aamer/015.mp3
+#EXTINF:-1 m="16" surah-name="النحل" type="مكية" ayat-count="128" page="267" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", النحل
+https://server10.mp3quran.net/Aamer/016.mp3
+#EXTINF:-1 m="17" surah-name="الإسراء" type="مكية" ayat-count="111" page="282" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", الإسراء
+https://server10.mp3quran.net/Aamer/017.mp3
+#EXTINF:-1 m="18" surah-name="الكهف" type="مكية" ayat-count="110" page="293" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", الكهف
+https://server10.mp3quran.net/Aamer/018.mp3
+#EXTINF:-1 m="19" surah-name="مريم" type="مكية" ayat-count="98" page="305" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", مريم
+https://server10.mp3quran.net/Aamer/019.mp3
+#EXTINF:-1 m="20" surah-name="طه" type="مكية" ayat-count="135" page="312" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", طه
+https://server10.mp3quran.net/Aamer/020.mp3
+#EXTINF:-1 m="21" surah-name="الأنبياء" type="مكية" ayat-count="112" page="322" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", الأنبياء
+https://server10.mp3quran.net/Aamer/021.mp3
+#EXTINF:-1 m="22" surah-name="الحج" type="مدنية" ayat-count="78" page="332" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", الحج
+https://server10.mp3quran.net/Aamer/022.mp3
+#EXTINF:-1 m="23" surah-name="المؤمنون" type="مكية" ayat-count="118" page="342" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", المؤمنون
+https://server10.mp3quran.net/Aamer/023.mp3
+#EXTINF:-1 m="24" surah-name="النور" type="مدنية" ayat-count="64" page="350" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", النور
+https://server10.mp3quran.net/Aamer/024.mp3
+#EXTINF:-1 m="25" surah-name="الفرقان" type="مكية" ayat-count="77" page="359" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", الفرقان
+https://server10.mp3quran.net/Aamer/025.mp3
+#EXTINF:-1 m="26" surah-name="الشعراء" type="مكية" ayat-count="227" page="367" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", الشعراء
+https://server10.mp3quran.net/Aamer/026.mp3
+#EXTINF:-1 m="27" surah-name="النمل" type="مكية" ayat-count="93" page="377" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", النمل
+https://server10.mp3quran.net/Aamer/027.mp3
+#EXTINF:-1 m="28" surah-name="القصص" type="مكية" ayat-count="88" page="385" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", القصص
+https://server10.mp3quran.net/Aamer/028.mp3
+#EXTINF:-1 m="29" surah-name="العنكبوت" type="مكية" ayat-count="69" page="396" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", العنكبوت
+https://server10.mp3quran.net/Aamer/029.mp3
+#EXTINF:-1 m="30" surah-name="الروم" type="مكية" ayat-count="60" page="404" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", الروم
+https://server10.mp3quran.net/Aamer/030.mp3
+#EXTINF:-1 m="31" surah-name="لقمان" type="مكية" ayat-count="34" page="411" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", لقمان
+https://server10.mp3quran.net/Aamer/031.mp3
+#EXTINF:-1 m="32" surah-name="السجدة" type="مكية" ayat-count="30" page="415" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", السجدة
+https://server10.mp3quran.net/Aamer/032.mp3
+#EXTINF:-1 m="33" surah-name="الأحزاب" type="مدنية" ayat-count="73" page="418" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", الأحزاب
+https://server10.mp3quran.net/Aamer/033.mp3
+#EXTINF:-1 m="34" surah-name="سبأ" type="مكية" ayat-count="54" page="428" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", سبأ
+https://server10.mp3quran.net/Aamer/034.mp3
+#EXTINF:-1 m="35" surah-name="فاطر" type="مكية" ayat-count="45" page="434" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", فاطر
+https://server10.mp3quran.net/Aamer/035.mp3
+#EXTINF:-1 m="36" surah-name="يس" type="مكية" ayat-count="83" page="440" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", يس
+https://server10.mp3quran.net/Aamer/036.mp3
+#EXTINF:-1 m="37" surah-name="الصافات" type="مكية" ayat-count="182" page="446" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", الصافات
+https://server10.mp3quran.net/Aamer/037.mp3
+#EXTINF:-1 m="38" surah-name="ص" type="مكية" ayat-count="88" page="453" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", ص
+https://server10.mp3quran.net/Aamer/038.mp3
+#EXTINF:-1 m="39" surah-name="الزمر" type="مكية" ayat-count="75" page="458" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", الزمر
+https://server10.mp3quran.net/Aamer/039.mp3
+#EXTINF:-1 m="40" surah-name="غافر" type="مكية" ayat-count="85" page="467" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", غافر
+https://server10.mp3quran.net/Aamer/040.mp3
+#EXTINF:-1 m="41" surah-name="فصلت" type="مكية" ayat-count="54" page="477" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", فصلت
+https://server10.mp3quran.net/Aamer/041.mp3
+#EXTINF:-1 m="42" surah-name="الشورى" type="مكية" ayat-count="53" page="483" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", الشورى
+https://server10.mp3quran.net/Aamer/042.mp3
+#EXTINF:-1 m="43" surah-name="الزخرف" type="مكية" ayat-count="89" page="489" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", الزخرف
+https://server10.mp3quran.net/Aamer/043.mp3
+#EXTINF:-1 m="44" surah-name="الدخان" type="مكية" ayat-count="59" page="496" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", الدخان
+https://server10.mp3quran.net/Aamer/044.mp3
+#EXTINF:-1 m="45" surah-name="الجاثية" type="مكية" ayat-count="37" page="499" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", الجاثية
+https://server10.mp3quran.net/Aamer/045.mp3
+#EXTINF:-1 m="46" surah-name="الأحقاف" type="مكية" ayat-count="35" page="502" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", الأحقاف
+https://server10.mp3quran.net/Aamer/046.mp3
+#EXTINF:-1 m="47" surah-name="محمد" type="مدنية" ayat-count="38" page="507" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", محمد
+https://server10.mp3quran.net/Aamer/047.mp3
+#EXTINF:-1 m="48" surah-name="الفتح" type="مدنية" ayat-count="29" page="511" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", الفتح
+https://server10.mp3quran.net/Aamer/048.mp3
+#EXTINF:-1 m="49" surah-name="الحجرات" type="مدنية" ayat-count="18" page="515" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", الحجرات
+https://server10.mp3quran.net/Aamer/049.mp3
+#EXTINF:-1 m="50" surah-name="ق" type="مكية" ayat-count="45" page="518" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", ق
+https://server10.mp3quran.net/Aamer/050.mp3
+#EXTINF:-1 m="51" surah-name="الذاريات" type="مكية" ayat-count="60" page="520" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", الذاريات
+https://server10.mp3quran.net/Aamer/051.mp3
+#EXTINF:-1 m="52" surah-name="الطور" type="مكية" ayat-count="49" page="523" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", الطور
+https://server10.mp3quran.net/Aamer/052.mp3
+#EXTINF:-1 m="53" surah-name="النجم" type="مكية" ayat-count="62" page="526" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", النجم
+https://server10.mp3quran.net/Aamer/053.mp3
+#EXTINF:-1 m="54" surah-name="القمر" type="مكية" ayat-count="55" page="528" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", القمر
+https://server10.mp3quran.net/Aamer/054.mp3
+#EXTINF:-1 m="55" surah-name="الرحمن" type="مدنية" ayat-count="78" page="531" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", الرحمن
+https://server10.mp3quran.net/Aamer/055.mp3
+#EXTINF:-1 m="56" surah-name="الواقعة" type="مكية" ayat-count="96" page="534" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", الواقعة
+https://server10.mp3quran.net/Aamer/056.mp3
+#EXTINF:-1 m="57" surah-name="الحديد" type="مدنية" ayat-count="29" page="537" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", الحديد
+https://server10.mp3quran.net/Aamer/057.mp3
+#EXTINF:-1 m="58" surah-name="المجادلة" type="مدنية" ayat-count="22" page="542" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", المجادلة
+https://server10.mp3quran.net/Aamer/058.mp3
+#EXTINF:-1 m="59" surah-name="الحشر" type="مدنية" ayat-count="24" page="545" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", الحشر
+https://server10.mp3quran.net/Aamer/059.mp3
+#EXTINF:-1 m="60" surah-name="الممتحنة" type="مدنية" ayat-count="13" page="549" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", الممتحنة
+https://server10.mp3quran.net/Aamer/060.mp3
+#EXTINF:-1 m="61" surah-name="الصف" type="مدنية" ayat-count="14" page="551" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", الصف
+https://server10.mp3quran.net/Aamer/061.mp3
+#EXTINF:-1 m="62" surah-name="الجمعة" type="مدنية" ayat-count="11" page="553" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", الجمعة
+https://server10.mp3quran.net/Aamer/062.mp3
+#EXTINF:-1 m="63" surah-name="المنافقون" type="مدنية" ayat-count="11" page="554" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", المنافقون
+https://server10.mp3quran.net/Aamer/063.mp3
+#EXTINF:-1 m="64" surah-name="التغابن" type="مدنية" ayat-count="18" page="556" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", التغابن
+https://server10.mp3quran.net/Aamer/064.mp3
+#EXTINF:-1 m="65" surah-name="الطلاق" type="مدنية" ayat-count="12" page="558" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", الطلاق
+https://server10.mp3quran.net/Aamer/065.mp3
+#EXTINF:-1 m="66" surah-name="التحريم" type="مدنية" ayat-count="12" page="560" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", التحريم
+https://server10.mp3quran.net/Aamer/066.mp3
+#EXTINF:-1 m="67" surah-name="الملك" type="مكية" ayat-count="30" page="562" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", الملك
+https://server10.mp3quran.net/Aamer/067.mp3
+#EXTINF:-1 m="68" surah-name="القلم" type="مكية" ayat-count="52" page="564" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", القلم
+https://server10.mp3quran.net/Aamer/068.mp3
+#EXTINF:-1 m="69" surah-name="الحاقة" type="مكية" ayat-count="52" page="566" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", الحاقة
+https://server10.mp3quran.net/Aamer/069.mp3
+#EXTINF:-1 m="70" surah-name="المعارج" type="مكية" ayat-count="44" page="568" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", المعارج
+https://server10.mp3quran.net/Aamer/070.mp3
+#EXTINF:-1 m="71" surah-name="نوح" type="مكية" ayat-count="28" page="570" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", نوح
+https://server10.mp3quran.net/Aamer/071.mp3
+#EXTINF:-1 m="72" surah-name="الجن" type="مكية" ayat-count="28" page="572" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", الجن
+https://server10.mp3quran.net/Aamer/072.mp3
+#EXTINF:-1 m="73" surah-name="المزمل" type="مكية" ayat-count="20" page="574" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", المزمل
+https://server10.mp3quran.net/Aamer/073.mp3
+#EXTINF:-1 m="74" surah-name="المدثر" type="مكية" ayat-count="56" page="575" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", المدثر
+https://server10.mp3quran.net/Aamer/074.mp3
+#EXTINF:-1 m="75" surah-name="القيامة" type="مكية" ayat-count="40" page="577" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", القيامة
+https://server10.mp3quran.net/Aamer/075.mp3
+#EXTINF:-1 m="76" surah-name="الإنسان" type="مدنية" ayat-count="31" page="578" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", الإنسان
+https://server10.mp3quran.net/Aamer/076.mp3
+#EXTINF:-1 m="77" surah-name="المرسلات" type="مكية" ayat-count="50" page="580" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", المرسلات
+https://server10.mp3quran.net/Aamer/077.mp3
+#EXTINF:-1 m="78" surah-name="النبأ" type="مكية" ayat-count="40" page="582" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", النبأ
+https://server10.mp3quran.net/Aamer/078.mp3
+#EXTINF:-1 m="79" surah-name="النازعات" type="مكية" ayat-count="46" page="583" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", النازعات
+https://server10.mp3quran.net/Aamer/079.mp3
+#EXTINF:-1 m="80" surah-name="عبس" type="مكية" ayat-count="42" page="585" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", عبس
+https://server10.mp3quran.net/Aamer/080.mp3
+#EXTINF:-1 m="81" surah-name="التكوير" type="مكية" ayat-count="29" page="586" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", التكوير
+https://server10.mp3quran.net/Aamer/081.mp3
+#EXTINF:-1 m="82" surah-name="الانفطار" type="مكية" ayat-count="19" page="587" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", الانفطار
+https://server10.mp3quran.net/Aamer/082.mp3
+#EXTINF:-1 m="83" surah-name="المطففين" type="مكية" ayat-count="36" page="587" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", المطففين
+https://server10.mp3quran.net/Aamer/083.mp3
+#EXTINF:-1 m="84" surah-name="الانشقاق" type="مكية" ayat-count="25" page="589" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", الانشقاق
+https://server10.mp3quran.net/Aamer/084.mp3
+#EXTINF:-1 m="85" surah-name="البروج" type="مكية" ayat-count="22" page="590" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", البروج
+https://server10.mp3quran.net/Aamer/085.mp3
+#EXTINF:-1 m="86" surah-name="الطارق" type="مكية" ayat-count="17" page="591" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", الطارق
+https://server10.mp3quran.net/Aamer/086.mp3
+#EXTINF:-1 m="87" surah-name="الأعلى" type="مكية" ayat-count="19" page="591" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", الأعلى
+https://server10.mp3quran.net/Aamer/087.mp3
+#EXTINF:-1 m="88" surah-name="الغاشية" type="مكية" ayat-count="26" page="592" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", الغاشية
+https://server10.mp3quran.net/Aamer/088.mp3
+#EXTINF:-1 m="89" surah-name="الفجر" type="مكية" ayat-count="30" page="593" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", الفجر
+https://server10.mp3quran.net/Aamer/089.mp3
+#EXTINF:-1 m="90" surah-name="البلد" type="مكية" ayat-count="20" page="594" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", البلد
+https://server10.mp3quran.net/Aamer/090.mp3
+#EXTINF:-1 m="91" surah-name="الشمس" type="مكية" ayat-count="15" page="595" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", الشمس
+https://server10.mp3quran.net/Aamer/091.mp3
+#EXTINF:-1 m="92" surah-name="الليل" type="مكية" ayat-count="21" page="595" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", الليل
+https://server10.mp3quran.net/Aamer/092.mp3
+#EXTINF:-1 m="93" surah-name="الضحى" type="مكية" ayat-count="11" page="596" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", الضحى
+https://server10.mp3quran.net/Aamer/093.mp3
+#EXTINF:-1 m="94" surah-name="الشرح" type="مكية" ayat-count="8" page="596" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", الشرح
+https://server10.mp3quran.net/Aamer/094.mp3
+#EXTINF:-1 m="95" surah-name="التين" type="مكية" ayat-count="8" page="597" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", التين
+https://server10.mp3quran.net/Aamer/095.mp3
+#EXTINF:-1 m="96" surah-name="العلق" type="مكية" ayat-count="19" page="597" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", العلق
+https://server10.mp3quran.net/Aamer/096.mp3
+#EXTINF:-1 m="97" surah-name="القدر" type="مكية" ayat-count="5" page="598" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", القدر
+https://server10.mp3quran.net/Aamer/097.mp3
+#EXTINF:-1 m="98" surah-name="البينة" type="مدنية" ayat-count="8" page="598" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", البينة
+https://server10.mp3quran.net/Aamer/098.mp3
+#EXTINF:-1 m="99" surah-name="الزلزلة" type="مدنية" ayat-count="8" page="599" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", الزلزلة
+https://server10.mp3quran.net/Aamer/099.mp3
+#EXTINF:-1 m="100" surah-name="العاديات" type="مكية" ayat-count="11" page="599" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", العاديات
+https://server10.mp3quran.net/Aamer/100.mp3
+#EXTINF:-1 m="101" surah-name="القارعة" type="مكية" ayat-count="11" page="600" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", القارعة
+https://server10.mp3quran.net/Aamer/101.mp3
+#EXTINF:-1 m="102" surah-name="التكاثر" type="مكية" ayat-count="8" page="600" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", التكاثر
+https://server10.mp3quran.net/Aamer/102.mp3
+#EXTINF:-1 m="103" surah-name="العصر" type="مكية" ayat-count="3" page="601" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", العصر
+https://server10.mp3quran.net/Aamer/103.mp3
+#EXTINF:-1 m="104" surah-name="الهمزة" type="مكية" ayat-count="9" page="601" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", الهمزة
+https://server10.mp3quran.net/Aamer/104.mp3
+#EXTINF:-1 m="105" surah-name="الفيل" type="مكية" ayat-count="5" page="601" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", الفيل
+https://server10.mp3quran.net/Aamer/105.mp3
+#EXTINF:-1 m="106" surah-name="قريش" type="مكية" ayat-count="4" page="602" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", قريش
+https://server10.mp3quran.net/Aamer/106.mp3
+#EXTINF:-1 m="107" surah-name="الماعون" type="مكية" ayat-count="7" page="602" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", الماعون
+https://server10.mp3quran.net/Aamer/107.mp3
+#EXTINF:-1 m="108" surah-name="الكوثر" type="مكية" ayat-count="3" page="602" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", الكوثر
+https://server10.mp3quran.net/Aamer/108.mp3
+#EXTINF:-1 m="109" surah-name="الكافرون" type="مكية" ayat-count="6" page="603" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", الكافرون
+https://server10.mp3quran.net/Aamer/109.mp3
+#EXTINF:-1 m="110" surah-name="النصر" type="مدنية" ayat-count="3" page="603" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", النصر
+https://server10.mp3quran.net/Aamer/110.mp3
+#EXTINF:-1 m="111" surah-name="المسد" type="مكية" ayat-count="5" page="603" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", المسد
+https://server10.mp3quran.net/Aamer/111.mp3
+#EXTINF:-1 m="112" surah-name="الإخلاص" type="مكية" ayat-count="4" page="604" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", الإخلاص
+https://server10.mp3quran.net/Aamer/112.mp3
+#EXTINF:-1 m="113" surah-name="الفلق" type="مكية" ayat-count="5" page="604" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", الفلق
+https://server10.mp3quran.net/Aamer/113.mp3
+#EXTINF:-1 m="114" surah-name="الناس" type="مكية" ayat-count="6" page="604" group-title="أحمد محمد عامر" tvg-logo="https://i.pinimg.com/564x/3d/27/03/3d2703b8d70e4fe746c4c6d3a6e65f3d.jpg", الناس
+https://server10.mp3quran.net/Aamer/114.mp3
