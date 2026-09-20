@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+    <channel id="RadioCoranDZ">
+        <display-name>إذاعة القرآن الكريم الجزائرية</display-name>
+    </channel>
+
+    <programme start="20260921 060000 +0100"
+               stop="20260921 090000 +0100"
+               channel="RadioCoranDZ">
+        <title lang="ar">نسمات الصباح</title>
+    </programme>
+
+    <programme start="20260921 103000 +0100"
+               stop="20260921 110000 +0100"
+               channel="RadioCoranDZ">
+        <title lang="ar">السلامة المرورية</title>
+    </programme>
+
+    <programme start="20260921 110000 +0100"
+               stop="20260921 120000 +0100"
+               channel="RadioCoranDZ">
+        <title lang="ar">برنامج تربوي</title>
+    </programme>
+</tv>
