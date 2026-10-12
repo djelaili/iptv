@@ -1,6 +1,6 @@
-#EXTM3U
+##EXTM3U
 #--- سور القرآن عدد السور 114 ---
-#EXTINF:-1 m="1" surah-name="الفاتحة" type="مكية" ayat-count="7" page="1" group-title="أحمد علي العجمي" tvg-logo="https://i.pinimg.com/564x/b1/9f/03/b19f03a9f2f09c46afbfd4f03727aee7.jpg", الفاتحة
+#EXTINF:-1 m="1" surah-name="سورة الفاتحة" type="مكية" ayat-count="7" page="1" group-title="أحمد علي العجمي" tvg-logo="https://i.pinimg.com/564x/b1/9f/03/b19f03a9f2f09c46afbfd4f03727aee7.jpg", سورة الفاتحة
 https://server10.mp3quran.net/ajm/128/001.mp3
 #EXTINF:-1 m="2" surah-name="البقرة" type="مدنية" ayat-count="286" page="2" group-title="أحمد علي العجمي" tvg-logo="https://i.pinimg.com/564x/b1/9f/03/b19f03a9f2f09c46afbfd4f03727aee7.jpg", البقرة
 https://server10.mp3quran.net/ajm/128/002.mp3
