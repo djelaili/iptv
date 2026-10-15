@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Arabic",DEFAULT=YES,AUTOSELECT=YES,URI="https://shd-gcp-live.edgenextcdn.net/live/bitmovin-iqraa/71b9601f8a91d79a78a02f86ae378d88/manifest/audio1/192kbps/audio.m3u8"
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/3Uw_n19-g0E/maxresdefault.jpg" GROUP-ID="audio",قناة إقرأ
+#EXT-X-STREAM-INF:BANDWIDTH=2400000,RESOLUTION=1920x1080,CODECS="avc1.640028,mp4a.40.2",AUDIO="audio"
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-iqraa/71b9601f8a91d79a78a02f86ae378d88/manifest/video/1080p2400kbps/video.m3u8
